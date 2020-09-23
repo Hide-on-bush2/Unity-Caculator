@@ -1,27 +1,14 @@
 ﻿<Properties StartupConfiguration="{8EED1ED1-3213-AA04-BD3E-14BE4C0FB4D5}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Caculator.cs">
     <Files>
-      <File FileName="Assets/Caculator.cs" Line="16" Column="9" />
+      <File FileName="Assets/Caculator.cs" Line="237" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Caculator" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Caculator.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0d7b8a39-257f-4cb2-b1f6-26019dbfaf1a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d066ce93-090a-4b38-8519-3ef1b683e6de" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/chechunjiang/Documents/Unity's project/Caculator/Assets/Caculator.cs" relfile="Assets/Caculator.cs" line="28" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
